@@ -35,6 +35,7 @@ body{
 .navbar{
 
     width: 30%;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -101,7 +102,7 @@ body{
 
 .image{
     filter: drop-shadow(19px -16px 6px);
-    height: 220px;
+    height: 240px;
     padding: 10px;
 
 }
